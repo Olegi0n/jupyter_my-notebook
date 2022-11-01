@@ -9,7 +9,7 @@ Create a new directory, cd into it, and then run
 
 ```
 git init
-git pull https://github.com/glebmikha/data-science-project-template.git
+git pull https://github.com/Olegi0n/jupyter_my-notebook.git
 ```
 
 2. Add your favorite Python modules to ./docker/jupyter/requirements.txt. For example:
